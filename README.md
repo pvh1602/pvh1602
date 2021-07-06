@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @pvh1602
-- 👀 I’m interested in Computer Vision, Attention mechanisms, Deep Learning techniques, and Deep Generative models.
-- 🌱 I’m currently learning about segmentation problems.
+- 👋 Hi, I’m @pvh1602 
+- ✨ I'm AI resident at @fsoft-aiclab
+- 👀 I’m interested in Computer Vision, Continual Learning, Sparse Neural Network, and Deep Generative models.
+- 🌱 I’m currently learning about Continual Learning and Sparse Neural Network.
 - 📫 How to reach me? You can mail me at hoang.pv1602@gmail.com
 
 <!---
